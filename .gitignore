@@ -1,3 +1,9 @@
 .DS_Store
 bin/*
 obj/*.o
+core
+core.*
+*.o
+temp.*
+*.out
+typescript*
